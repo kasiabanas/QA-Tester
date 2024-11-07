@@ -1,4 +1,4 @@
-# [Katarzyna Banaś]'s GitHub Portfolio
+# Katarzyna Banaś's GitHub Portfolio
 
 Welcome to my GitHub repository! This project demonstrates my expertise in TypeScript and Playwright for test automation. Below, you’ll find sections dedicated to showcasing my TypeScript proficiency through a hotel management project, as well as a Playwright-based test automation example.
 
