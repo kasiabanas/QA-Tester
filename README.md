@@ -27,15 +27,3 @@ The **HotelsManagmentSystem** project is a TypeScript-based hotel reservation sy
 - **Functional Requirements**: Room management, reservation handling, and revenue tracking.
 
 Please refer to the [README](https://github.com/kasiabanas/QA-Tester/blob/main/README.md) in the `HotelsManagmentSystem` folder for setup instructions and detailed specifications.
-
-### Playwright Test Example TODO:
-
-The **Playwright_Test** folder contains a Playwright test script automating a user login scenario. This project demonstrates:
-
-- **User Action Simulation**: Filling out login forms and navigating.
-- **Assertion of Expected Outcomes**: Ensuring successful login functionality.
-- **Flexible Setup**: Playwright configuration for test customization.
-
-Refer to the [README](./Playwright_Test/README.md) in the `Playwright_Test` folder for setup instructions and specifications.
-
----
